@@ -17,3 +17,5 @@ Date 2015-09-15T04:00:00.000Z
 - Strings need to be wrapped in these characters `"Event title"` not these `“Event title”`
 
 - Include the two letter country code to include the correct flag
+
+- Double quotes inside strings need to be typed twice (e.g `,"Congress Centre ""Le Manège"", Chambéry, France",`)
