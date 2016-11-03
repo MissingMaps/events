@@ -326,6 +326,6 @@ latitude,longitude,date,flag,title,place_name,place_url,time_string,signup_url
 6.3675,2.3394,2016-11-19,bj,#100mapathons OSM Bénin Mapathon,"n/a, Cotonou, Benin",http://www.openstreetmap.org/#map=11/6.3675/2.3394,9:00-23:00,n/a
 12.37588,-1.50330,2016-11-19,bf,#100mapathons OSM Burkina Faso,"Bibliothèque CEDRES, Ouagadougou, Burkina Faso",http://www.openstreetmap.org/node/4385264159,8:00-13:00,
 53.43132,-6.13751,2016-11-18,ie,#100mapathons Portmarnock Community School Mapathon,"Portmarnock Community School, Dublin, Ireland",http://osm.org/go/es~dWdym?m=,8:00-8:00,https://ti.to/osm_ie/24hr-maplesotho-mapathon
-5.1188,-1.2890,2016-11-21,gh,#100mapathons UCC OSM GeoWeek,"University of Cape Coast, Cape Coast, Ghana",https://www.openstreetmap.org/way/330376417#map=14/5.1188/-1.2890,9:00-14:00
-5.1188,-1.2890,2016-11-19,gh,#100mapathons UCC OSM GeoWeek,"University of Cape Coast, Cape Coast, Ghana",https://www.openstreetmap.org/way/330376417#map=14/5.1188/-1.2890,8:00-10:00
+5.1188,-1.2890,2016-11-21,gh,#100mapathons UCC OSM GeoWeek,"University of Cape Coast, Cape Coast, Ghana",https://www.openstreetmap.org/way/330376417#map=14/5.1188/-1.2890,9:00-14:00,
+5.1188,-1.2890,2016-11-19,gh,#100mapathons UCC OSM GeoWeek,"University of Cape Coast, Cape Coast, Ghana",https://www.openstreetmap.org/way/330376417#map=14/5.1188/-1.2890,8:00-10:00,
 38.89921,-77.04836,2016-11-9,us,#100mapathons GWU Humanitarian Mapping Society & Missing Maps: November Mapathon,"Gelman Library, Washington DC, United States",http://www.openstreetmap.org/search?query=gELMAN%20LIBRARY%2C%20WASHINGTON%20DC#map=19/38.89921/-77.04836,19:00-21:00
