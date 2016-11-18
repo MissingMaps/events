@@ -1,6 +1,6 @@
 ### Adding events
 
-Events are configured as a submodule in git. When you edit this page events automatically get changed on the main website. To add an event, edit the events.csv.
+When you edit events.csv events automatically get changed on the main website. To add an event, edit the events.csv.
 
 When updating the csv of events:
 
