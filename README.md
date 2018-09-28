@@ -4,7 +4,7 @@ When you edit events.csv events automatically get changed on the main website. T
 
 When updating the csv of events:
 
-If adding events from the database of submissions via the google form, you will need to add the coordinates manually at the start of the row. This can easily be done by opening the OSM location link and copying the coords from the URL. Make sure lat / long are separated by a comma as the URL will use a "/" instead.
+- If adding events from the database of submissions via the google form, you will need to add the coordinates manually at the start of the row. This can easily be done by opening the OSM location link and copying the coords from the URL. Make sure lat / long are separated by a comma as the URL will use a "/" instead.
 
 - Use `yyyy-mm-dd` format for date. The year must be 4 digits (may need to adjust display settings in Microsoft Excel). Otherwise, 15 may be interpreted as 1915 instead of 2015.
 
